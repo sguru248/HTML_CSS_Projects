@@ -1,0 +1,10 @@
+.b-t{
+    color: black;
+}
+.w-t{
+    color: white;
+}
+.h-c{
+    display: flex;
+    justify-content: center;
+}
