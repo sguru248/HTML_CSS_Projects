@@ -1,0 +1,12 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,200&family=Playfair+Display:wght@500&family=Ubuntu:ital@1&family=Ysabeau+Infant:ital,wght@1,100&display=swap');
+
+ /* RESET */
+ 
+
+
+table, tr, th, td, caption {
+    border: 2px solid black;
+    padding: 0.5rem;
+    border-collapse: collapse;
+
+}
